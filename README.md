@@ -1,4 +1,4 @@
-# predict apartment sale price
+# Apartment Price Prediction
 
 Business Problem
 
